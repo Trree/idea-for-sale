@@ -106,6 +106,7 @@ best_direction: none
 - bucket: topic/event/person
 - bucket: user voice
 - bucket: competitor/substitute
+- bucket: adjacent tools/old workflow
 - bucket: transaction signal
 - bucket: counterexample
 
@@ -122,13 +123,15 @@ best_direction: none
 
 1. 素材收集
 2. baseline 压缩
-3. baseline 洞察与可迁移思想
-4. baseline 创意碰撞
-5. Round 1 全面扫描缺口
-6. 选择最弱项并补新信息
-7. 回到圆桌重新碰撞、重排、重打分
-8. 满足最少 3 轮后判断是否收敛
-9. 最多 10 轮，超出则强制收敛
+3. baseline 洞察
+4. 差异与突破扫描
+5. baseline 可迁移思想
+6. baseline 创意碰撞
+7. Round 1 全面扫描缺口
+8. 选择最弱项并补新信息
+9. 回到圆桌重新碰撞、重排、重打分
+10. 满足最少 3 轮后判断是否收敛
+11. 最多 10 轮，超出则强制收敛
 
 每轮迭代都必须明确回答：
 
