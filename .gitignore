@@ -1,6 +1,40 @@
 # Runtime state for this skill
+.codex
 idea-state.md
 
 # Generated output documents
+20??-??-??-*.md
 *-report.md
 *-mvp.md
+
+# Local environment
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+logs/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dependencies and caches
+node_modules/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+venv/
+
+# Build outputs and temporary files
+dist/
+build/
+tmp/
+temp/
